@@ -25,7 +25,7 @@ Per far funzionare questo progetto, sono necessari i seguenti requisiti:
    conda env create -f environment.yml
    ```
    ```bash
-   conda activate Gruppo_12
+   conda activate Gruppo12
    ```
    
 3. Esegui il programma:
