@@ -6,8 +6,7 @@ Questo progetto permette di implementare una funzione di riconoscimento di un so
 
 Per far funzionare questo progetto, sono necessari i seguenti requisiti:
 - **Python 3.9.13** 
-- **Anaconda** per gestire l'ambiente virtuale
-- **Java Runtime Environment (JRE) 11+**
+- **Anaconda:** per gestire l'ambiente virtuale
 
 ## Installazione
 
